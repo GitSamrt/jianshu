@@ -1,0 +1,48 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [{
+      "id": 1,
+      "title": "社会热点",
+      "imgUrl": "https://cdn2.jianshu.io/assets/default_avatar/10-e691107df16746d4a9f3fe9496fd1848.jpg"
+    }, {
+      "id": 2,
+      "title": "手绘",
+      "imgUrl": "https://upload.jianshu.io/collections/images/283250/%E6%BC%AB%E7%94%BB%E4%B8%93%E9%A2%98.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/144/h/144/format/webp"
+    }],
+    "articleList": [{
+      "id": 1,
+      "title": "清华小姐姐推荐 10本必读的提升自我书单",
+      "desc": "菠萝书单，汇聚各行各业精英推荐书单，提升自己，多读书，读好书，读对书，关注菠萝书单，推荐更多好书给你！ 年度巨献来了！整理了一份非常适合女孩子提...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/16440539-898dc3c7a35fae13.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },{
+      "id": 2,
+      "title": "清华小姐姐推荐 10本必读的提升自我书单",
+      "desc": "菠萝书单，汇聚各行各业精英推荐书单，提升自己，多读书，读好书，读对书，关注菠萝书单，推荐更多好书给你！ 年度巨献来了！整理了一份非常适合女孩子提...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/16440539-898dc3c7a35fae13.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },{
+      "id": 3,
+      "title": "清华小姐姐推荐 10本必读的提升自我书单",
+      "desc": "菠萝书单，汇聚各行各业精英推荐书单，提升自己，多读书，读好书，读对书，关注菠萝书单，推荐更多好书给你！ 年度巨献来了！整理了一份非常适合女孩子提...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/16440539-898dc3c7a35fae13.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },{
+      "id": 4,
+      "title": "清华小姐姐推荐 10本必读的提升自我书单",
+      "desc": "菠萝书单，汇聚各行各业精英推荐书单，提升自己，多读书，读好书，读对书，关注菠萝书单，推荐更多好书给你！ 年度巨献来了！整理了一份非常适合女孩子提...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/16440539-898dc3c7a35fae13.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    }],
+    "recommendList": [{
+      "id": 1,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+    },{
+      "id": 2,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+    },{
+      "id": 3,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png" 
+    },{
+      "id": 4,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+    }]
+  }
+}
